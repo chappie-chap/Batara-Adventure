@@ -1,0 +1,202 @@
+{
+  "bajus": [
+    {
+      "id": "B1",
+      "title": "Ulee Balang - Nanggroe Aceh Darussalam",
+      "sprite": "1",
+      "description": "•  Pakaian adat Nanggroe Aceh Darussalam disebut Ulee Balang.\n•  Pria : Pada pria bagian tubuh memakai baju jas dihiasi dengansulaman keemasan yang terdapat pada kerah baju.\n•  Wanita : Pakaian adat pada wanita disebut baju kurung berlengan panjang.\n•  Pakaian adat Baje Meukasah digunakan saat upacara adat tradisional."
+    },
+    {
+      "id": "B2",
+      "title": "Ulos - Sumatera Utara",
+      "sprite": "2",
+      "description": "•  Pakaian adat Provinsi Sumatera Utara disebut pakaian adat Ulos\n•  Untuk Pria : bagian tubuh menggunakan jas berlengan panjang dengankain ulos yang diselempangkan di pundak, dan menggunakan penutup kepala yangdisebut dengan tengkuluk. \n•  Untuk Wanita : bagian tubuh memakai baju kebaya berlengan panjang,bawahannya menggunakan kain songket dan kain ulos yang diselempangkan dipundak.\nPakaian adat Ulos dipakai saat acara pernikahan."
+    },
+    {
+      "id": "B3",
+      "title": "Penghulu dan Bundo Kandung - Sumatera Barat",
+      "sprite": "3",
+      "description": "•  Pakaian adat Provinsi Sumatra Barat disebut Baju Penghulu dan BajuAdat Bundo Kandung\n•  Untuk Pria : bagian tubuh memakai baju berwarna merah berlenganpanjang, celana sebagai bawahannya, dan menggunakan sandang yang diselempangkandibahu serta kris sebagai aksesoris.\n•  Untuk Wanita : bagian tubuh memakai pakaian berwarna merah denganbawahannya menggunakan sarung bermotif yang dihiasi dengan benang emas dantepinya diberi mansie\n•  Pakaian adat ini digunakan saat acara adat sebagai pakaiankebesaran."
+    },
+    {
+      "id": "B4",
+      "title": "Melayu - Riau",
+      "sprite": "4",
+      "description": "•  Pakaian adat Provinsi Riau disebut Pakaian Tradisional Melayu.\n•  Untuk Pria : Bagian tubuh memakai baju dan celana dengan  warna yang sama, bagian penutup kepaladisebut Tanjak Laksamana, dan dengan tambahan aksesoris keris yang berbentukkepala burung serimpit dan sehelai kain yang diselipkan dipinggang.\n•  Untuk Wanita : bagian tubuh memakai baju kurung dengan bawahannyamenggunakan kain panjang bermotif, dan dengan tambahan aksesoris berupa kalung.\n•  Pakaian adat ini digunakan saat upacara pernikahan."
+    },
+    {
+      "id": "B5",
+      "title": "Teluk Belanga - Kepulauan Riau",
+      "sprite": "5",
+      "description": "•  Pakaian adat Provinsi Kepulauan Riau disebut Teluk Belanga.\n•  Untuk Pria : bagian tubuh memakai jubah dan celana panjang sebagaibawahannya.\n•  Untuk wanita : bagian tubuh memakai baju telupuk dan kain songket,serta kain selempang yang dipakai di bahu.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B6",
+      "title": "Melayu - Jambi",
+      "sprite": "6",
+      "description": "•  Pakaian adat Provinsi Jambi disebut BPakaian Tradisional MelayuJambi\n•  Untuk Pria : Bagian tubuh memakai baju kurung dan bawahannya memakaicelana atau cangge.\n•  Untuk wanita : Bagian tubuh memakai baju kurung tanggung denganbawahannya memakai rok dengan motif bunga melati, dan memakai penutup kepalabernama pesangkon.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B7",
+      "title": "Bengkulu - Bengkulu",
+      "sprite": "7",
+      "description": "•  Pakaian adat Provinsi Bengkulu disebut Pakaian Adat Bengkulu\n•  Untuk Pria : bagian tubuh memakai pakaian berupa jas.\n•  Untuk Wanita : bagian tubuh memakai pakaian yang bertaburcorak-corak dengan sulaman emas berbentuk.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B8",
+      "title": "Aesan Gede - Sumatera Selatan",
+      "sprite": "8",
+      "description": "•  Pakaian adat Provinsi Sumatera Selatan disebut pakaian adat AesanGede.\n•  Untuk Pria : bagian tubuh memakai pakaian berupa songket lepusbersulam dan motif tabor bunga emas berwarna merah.\n•  Untuk wanita : bagian tubuh memakai baju kueung berwarna ningratbertabut bungan bintang keemasan dengan kain songket lepus bersulam emas.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B9",
+      "title": "Kain Tipis - Lampung",
+      "sprite": "9",
+      "description": "•  Pakaian adat Provinsi Lampung disebut Pakaian Kain Tapis.\n•  Untuk pria : bagian tubuh memakai baju lengan panjang yang berwarnaputih dan kain sarung sebagai bawahannya setelah memakai celana panjang.\n•  Untuk wanita : bagian tubuh memakai baju kuning tanpa lengan panjangdan kain sarung sebagai bawahannya.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B10",
+      "title": "Pengantin Banten - Bengkulu",
+      "sprite": "10",
+      "description": "•  Pakaian adat Provinsi Bengkulu disebut pakaian Pengantin Banten.\n•  Untuk Pria : bagian tubuh memakai pakaian berupa jas.\n•  Untuk wanita : bagian tubuh memakai pakaian yang bertaburcorak-corak dengan sulaman emas.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B11",
+      "title": "Abang None - DKI Jakarta",
+      "sprite": "11",
+      "description": "•  Pakaian adat Provinsi DKI Jakarta disebut Betawi Abang None.\n•  Untuk Pria : bagian tubuh memakai baju kokoh dengan celana panjangberwarna hitam, dan memakai kain sarung yang disampirkan dipundak.\n•  Untuk Wanita : bagian tubuh memakai kebaya berwarna cerah dengan roksebagai bawahan dan memakai selendang sebagai kerudung.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B12",
+      "title": "Beskap dan Kebaya - Jawa Barat",
+      "sprite": "12",
+      "description": "•  Pakaian adat Provinsi Jawa Barat disebut Beskap dan Kebaya.\n•  Untuk Pria : bagian tubuh memakai jas dengan celana berwarna hitamdan penutup kepala menggunakan bendo\n•  Untuk wanita : bagian tubuh memakai baju kebaya yang dilengkapiterataian dengan kain batik Cirebon sebagai bawahan.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B13",
+      "title": "Jawi Jangkep dan Kebaya - Jawa Tengah",
+      "sprite": "13",
+      "description": "•  Pakaian adat Provinsi Jawa Tengah \n•  Untuk pria : bagian tubuh memakai baju beskap dengan motif bunga dankain jarik batik untuk bawahannya.\n•  Untuk wanita : bagian tubuh memakai kebaya berwarna hitam danbermotif bunga dengan kain jarik batik untuk bawahannya.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B14",
+      "title": "Paes Agung - DIY Yogyakarta",
+      "sprite": "14",
+      "description": "•  Pakaian adat Provinsi Daerah Istimewa Yogyakarta disebut busana paesageng.\n•  Untuk pria : bagian tubuh memakai busana lukar dan kain kampuhdodotan serta celana cinde untuk bagian bawahannya.\n•  Untuk wanita : bagian tubuh memakai kain kampuh dan kain cinde.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B15",
+      "title": "Pesa'an - Jawa Timur",
+      "sprite": "15",
+      "description": "•  Pakaian adat Provinsi Jawa Timur disebut pesa’an.\n•  Untuk pria : bagian tubuh memakai celana gombor warna hitam denganbaju bergaris berwarna merah putih, serta memakai penutup kepala odheng.\n•  Untuk wanita : bagian tubuh memakai kebaya rancongan dengan memakaikain batik pendek lasem."
+    },
+    {
+      "id": "B16",
+      "title": "Payas Agung - Bali",
+      "sprite": "16",
+      "description": "•  Pakaian adat Provinsi Bali disebut pakaian adat Payas Agung\n•  Untuk pria : bagian atas tubuh memakai baju safari dengan bawahanmemakai kamen (kain tradisional bali yang bentuknya seperti sarung dandigunakan beberapa lapis dengan sedikit lipatan dibagian tengah), danmenggunakan penutup kepala udeng.\n•  Untuk wanita : bagian bawah tubuh memakai kamen dengan atasanmemakai kebaya bali, rambut disanggul dan memakai bunga cempaka putih sebagaiaksesoris.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B17",
+      "title": "Adat Lombok - Nusa Tenggara Barat",
+      "sprite": "17",
+      "description": "•  Pakaian adat Provinsi Nusa Tenggara Barat disebut pakaian adatLombok\n•  Untuk pria : memakai baju lengan panjang dengan bawahan kain sarung,dan menggunakan penutup kepala.\n•  Untuk wanita : memakai kebaya panjang dengan kain songket.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B18",
+      "title": "Rote - Nusa Tenggara Timur",
+      "sprite": "18",
+      "description": "•  Pakaian adat Provinsi Nusa Tenggara Timur disebut pakaian adat Rote\n•  Untuk pria : memakai baju lengan panjang dengan celana panjangsebagai bawahannya, kain tenun yang disampirkan, dan sarung kain tenun.\n•  Untuk wanita : memakai kain tenun yang disampirkan di bahu.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B19",
+      "title": "King Baba dan King Bibinge - Kalimantan Barat",
+      "sprite": "19",
+      "description": "•  Pakaian adat Provinsi Kalimantan Barat disebut king baba dan kingbibinge.\n•  Untuk pria : bagian tubuh memakai baju tanpa lengan dan celanasebagai bawahannya.\n•  Untuk wanita : bagian tubuh memakai kain penutup dada serta lapisankain yang berfungsi sebagai stragen\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B20",
+      "title": "Davak Ngaju - Kalimantan tengah",
+      "sprite": "20",
+      "description": "•  Pakaian adat Provinsi Kalimantan Tengah disebut pakaian adat dayakngaju\n•  Untuk pria : bagian tubuh memakai rompi berwarna hitam dan celanakain sebatas lutut sebagai bawahannya.\n•  Untuk wanita : bagian tubuh memakai rompi dan rok pendek sebagaibawahan\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B21",
+      "title": "Begajah Gamuling Baulur Lulut - Kalimantan Selatan",
+      "sprite": "21",
+      "description": "•  Pakaian adat Provinsi Kalimantan Selatan disebut pakaian adatBegajah Gamuling Baular Lulut.\n•  Untuk pria : bagian tubuh memakai baju rompi atau baju tanda lengandengan celana panjang yang disebut selawar, dan sarung sebatas lutut.\n•  Untuk wanita : bagian tubuh memakai baju dan kain emas, dengan perhiasanberupa kalung, anting, pending, dan gelang tangan.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B22",
+      "title": "Kusti - Kalimantan Timur",
+      "sprite": "22",
+      "description": "•  Pakaian adat Provinsi Kalimantan Timur disebut pakaian adat kusti\n•  Untuk pria : bagian tubuh memakai rompi tanpa lengan, kain sebataslutut yang dililitkan, dan penutup kepala dengan hiasan bulu burung enggang.\n•  Untuk wanita : bagian tubuh memakai baju rompi, rok pendek berumbaidengan sulaman suku Dayak.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B23",
+      "title": "Ta'a - Kalimantan Utara",
+      "sprite": "23",
+      "description": "•  Pakaian adat Provinsi Kalimantan Utara disebut pakaian adat Ta’a\n•  Untuk pria dan wanita : bagian tubuh memakai rompitanpa lengan serta rok yang memiliki warna serupa dengan rompi, terbuat dari kain beludru warna hitam yang dilengkapi denganmanik-manik.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B24",
+      "title": "Toraja atau Baju Bodo - Sulawesi Selatan",
+      "sprite": "24",
+      "description": "•  Pakaian adat Provinsi Sulawesi Selatan disebut Pakaian adat Torajaatau Baju Bodo.\n•  Untuk pria : bagian tubuh memakai jas model tertutup dengan lenganpanjang disertai sarung songket yang disebut rope.\n•  Untuk wanita : bagian tubuh memakai baju berlengan pendek dan sarung(rope) beserta rantainya.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B25",
+      "title": "Toraja - Sulawesi Barat",
+      "sprite": "25",
+      "description": "•  Pakaian adat Provinsi Sulawesi Barat disebut Pakaian adat Toraja\n•  Untuk pria : bagian tubuh memakai jas tutup hitamdari kain sutra sebagai atasan dan celana panjang hitam dilengkapi sarung tenunyang dililitkan di bagian pinggang sebagai bawahan\n•  Untuk wanita : bagian tubuh memakai baju pokkodidominasi oleh warna-warna yang cerah dan mencolok, dan terdapat hiasanmanik-manik khas pada bagian dada dan beberapa aksesorisnya\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B26",
+      "title": "Kulavi (Donggala) - Sulawesi Tengah",
+      "sprite": "26",
+      "description": "•  Pakaian adat Provinsi Sulawesi Tengah disebut Pakaian adat Kulavi(Donggala)\n•  Untuk pria : memakai baju berbentuk jubah panjang, berkerah tinggi,dan berlengan pendek atau disebut buya\n•  Untuk wanita : memakai baju dan rok panjang berwarna merah, danmemakai aksesoris berupa enu enu (kalung), sinsi (cincin), pewutu busoki (konde), tole(anting-anting), langsonggilo (tusuk konde), dan pasapu (mahkota).\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B27",
+      "title": "Tolaki - Sulawesi Tenggara",
+      "sprite": "27",
+      "description": "•  Pakaian adat Provinsi Sulawesi Tenggara disebut Pakaian adat Tolaki\n•  Untuk pria : memakai baju jas model tertutup, sarung sebatas lutu,celana, dan tutup kepala atau destar.\n•  Untuk wanita : memakai baju kebaya, kain selempang, sarung, danmemakai aksesoris di kepala berupa bunga, sanggul, dan lainnya.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B28",
+      "title": "Biliu dan Mukuta - Gorontalo",
+      "sprite": "28",
+      "description": "•  Pakaian adat Provinsi Gorontalo disebut Pakaian adat Biliu danPakaian adat Mukuta.\n•  Untuk pria : memakai baju dan celana panjang dan memakai aksesoris tudung makuta sebuahhiasan kepala yang menyerupai hiasan semacam bulu unggas, berbentuk tutupkepala yang menjulai tinggi ke atas serta melengkung ke arah belakang\n•  Untuk wanita : memakai baju berukuran panjang seperti ratu kerajaan.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B29",
+      "title": "Minahasa - Sulawesi Utara",
+      "sprite": "29",
+      "description": "•  Pakaian adat Provinsi Sulawesi Utara disebut Pakaian adat Minahasa.\n•  Untuk pria : pakaian yang digunakan model teluk belanga danmenggunakan celana panjang untuk bawahannya.\n•  Untuk wanita : pakaian adat berupa baju kurung dan kain panjang.Bagian dada memakai penutup dengan bentuk dan hiasan khas.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B30",
+      "title": "Koja - Maluku Utara",
+      "sprite": "30",
+      "description": "•  Pakaian adat Provinsi Maluku Utara disebut Pakaian adat Koja.\n•  Untuk pria : memakai baju berbentuk jas tertutup dengan kancingbesar terbuat dari perak berjumlah Sembilan, dan bawahannya memakai celanapanjang.\n•  Untuk wanita : memakai kebaya panjang atau kimun gia yang terbuatdari kain satin berwarna putih dengan ikat pinggang yang terbuat dari emas, dankain panjang yang disampirkan.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B31",
+      "title": "Cele - Maluku",
+      "sprite": "31",
+      "description": "•  Pakaian adat Provinsi Maluku disebut Pakaian adat Cele\n•  Untuk pria : memakai baju berupa kemeja berenda dilapisi jas lenganpanjang berwarna hitam atau merah.\n•  Untuk wanita : memakai baju cale berupa kebaya pendek berkanji danbersuji.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B32",
+      "title": "Koteka - Papua",
+      "sprite": "32",
+      "description": "•  Pakaian adat Provinsi Papua disebut Pakaian adat Koteka\n•  Untuk pria dan wanita memakai baju dan penutup badan bagian bawahdengan model yang sama, memakai hiasan di kepala berupa bulu burungcenderawasih, gelang, kalung, dan ikat pinggang dari manic-manik, danrumbai-rumbai pada pergelangan kaki.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    },
+    {
+      "id": "B33",
+      "title": "Ewer - Papua Barat",
+      "sprite": "33",
+      "description": "•  Pakaian adat Provinsi Papua Barat disebut Pakaian adat Ewer.\n•  Untuk pria dan wanita : pakaian adat yang digunakan  sebagai bawahan rok  wanita terbuat dari bahan alami yaitu jeramiyang dikeringkan dan atasan yang terbuat dari kain bludru.\n•  Pakaian adat ini digunakan saat acara pernikahan."
+    }
+  ]
+}

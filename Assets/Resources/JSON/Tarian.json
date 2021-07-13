@@ -1,0 +1,175 @@
+{
+  "tarians" : 
+  [
+    {
+      "id" : "T1",
+      "title" : "Saman Muesekat - Aceh Darussalam",
+      "sprite" : "1"
+    },
+    {
+      "id" : "T2",
+      "title" : "Serampang Dua Belas - Sumatera Utara",
+      "sprite" : "2"
+    },
+    {
+      "id" : "T3",
+      "title" : "Payung - Sumatera Barat",
+      "sprite" : "3"
+    },
+    {
+      "id" : "T4",
+      "title" : "Makan Sirih - Riau",
+      "sprite" : "4"
+    },
+    {
+      "id" : "T5",
+      "title" : "Sekapur Sirih - Jambi",
+      "sprite" : "5"
+    },
+    {
+      "id" : "T6",
+      "title" : "Tanggai - Sumatera Selatan",
+      "sprite" : "6"
+    },
+    {
+      "id" : "T7",
+      "title" : "Melinting - Lampung",
+      "sprite" : "7"
+    },
+    {
+      "id" : "T8",
+      "title" : "Andun - Bengkulu",
+      "sprite" : "8"
+    },
+    {
+      "id" : "T9",
+      "title" : "Campak - Bangka Belitung",
+      "sprite" : "9"
+    },
+    {
+      "id" : "T10",
+      "title" : "Remo - Jawa Timur",
+      "sprite" : "10"
+    },
+    {
+      "id" : "T11",
+      "title" : "Jaipong - Jawa Barat",
+      "sprite" : "11"
+    },
+    {
+      "id" : "T12",
+      "title" : "Bedhaya Ketawang - Jawa Tengah",
+      "sprite" : "12"
+    },
+    {
+      "id" : "T13",
+      "title" : "Tandak - Riau",
+      "sprite" : "13"
+    },
+    {
+      "id" : "T14",
+      "title" : "Maler Bedug - Banten",
+      "sprite" : "14"
+    },
+    {
+      "id" : "T15",
+      "title" : "Topeng Betawi - DKI Jakarta",
+      "sprite" : "15"
+    },
+    {
+      "id" : "T16",
+      "title" : "Serimpi - D.I Yogyakarta",
+      "sprite" : "16"
+    },
+    {
+      "id" : "T17",
+      "title" : "Monong - Kalimantan Barat",
+      "sprite" : "17"
+    },
+    {
+      "id" : "T18",
+      "title" : "Baksa Kembang - Kalimantan Selatan",
+      "sprite" : "18"
+    },
+    {
+      "id" : "T19",
+      "title" : "Tambun Bungai - Kalimantan Tengah",
+      "sprite" : "19"
+    },
+    {
+      "id" : "T20",
+      "title" : "Gong - Kalimantan Timur",
+      "sprite" : "20"
+    },
+    {
+      "id" : "T21",
+      "title" : "Radap Rahayu - Kalimantan Utara",
+      "sprite" : "21"
+    },
+    {
+      "id" : "T22",
+      "title" : "Kecak - Bali",
+      "sprite" : "22"
+    },
+    {
+      "id" : "T23",
+      "title" : "Lenso - Maluku",
+      "sprite" : "23"
+    },
+    {
+      "id" : "T24",
+      "title" : "Perang - Maluku Utara",
+      "sprite" : "24"
+    },
+    {
+      "id" : "T25",
+      "title" : "Caci - Nusa Tenggara Timur",
+      "sprite" : "25"
+    },
+    {
+      "id" : "T26",
+      "title" : "Nguri _ Nusa Tenggara Barat",
+      "sprite" : "26"
+    },
+    {
+      "id" : "T27",
+      "title" : "Maengket Sulawesi Utara",
+      "sprite" : "27"
+    },
+    {
+      "id" : "T29",
+      "title" : "Lulo Alu - Sulawesi Tenggara",
+      "sprite" : "29"
+    },
+    {
+      "id" : "T30",
+      "title" : "Dero - Sulawesi Tengah",
+      "sprite" : "30"
+    },
+    {
+      "id" : "T31",
+      "title" : "Kipas Pakarena - Sulawesi Selatan",
+      "sprite" : "31"
+    },
+    {
+      "id" : "T32",
+      "title" : "Pattudu - Sulawesi Barat",
+      "sprite" : "32"
+    },
+    {
+      "id" : "T32",
+      "title" : "Sarode - Gorontalo",
+      "sprite" : "32"
+    },
+    {
+      "id" : "T33",
+      "title" : "Perang Papua - Papua",
+      "sprite" : "33"
+    },
+    {
+      "id" : "T34",
+      "title" : "Selamat Datang - Papua Barat",
+      "sprite" : "34"
+    }
+  ]
+}

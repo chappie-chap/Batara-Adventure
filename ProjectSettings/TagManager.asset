@@ -8,6 +8,7 @@ TagManager:
   - PopExitGame
   - GameOver
   - Quest
+  - Platform
   layers:
   - Default
   - TransparentFX

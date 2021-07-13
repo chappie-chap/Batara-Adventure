@@ -5,15 +5,24 @@ using UnityEngine.UI;
 
 public class DetailBaju : MonoBehaviour
 {
-    public string title, description;
-    public Sprite sp;
+    public string title= "", description ="";
+    public string sp= null;
 
     public GameObject Title, desc, img;
 
     private void Start()
     {
+        Title.GetComponent<Text>().text = "";
+        desc.GetComponent<Text>().text = "";
+        img.GetComponent<Image>().overrideSprite = null;
+        
+    }
+
+    private void Update()
+    {
         Title.GetComponent<Text>().text = title;
         desc.GetComponent<Text>().text = description;
-        img.GetComponent<Image>().sprite = sp;
+        var sprite = Resources.Load<Sprite>("Images/Materi/Baju/" + sp);
+        img.GetComponent<Image>().overrideSprite = sprite;
     }
 }

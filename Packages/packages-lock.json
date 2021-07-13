@@ -72,14 +72,13 @@
       "dependencies": {}
     },
     "com.unity.2d.tilemap.extras": {
-      "version": "https://github.com/Unity-Technologies/2d-extras.git",
+      "version": "file:2d-extras-master",
       "depth": 0,
-      "source": "git",
+      "source": "embedded",
       "dependencies": {
         "com.unity.modules.tilemap": "1.0.0",
         "com.unity.2d.tilemap": "1.0.0"
-      },
-      "hash": "1d3accb6a55af4e351770de72976090bcebb35e2"
+      }
     },
     "com.unity.cinemachine": {
       "version": "2.6.3",

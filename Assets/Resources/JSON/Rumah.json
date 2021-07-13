@@ -1,0 +1,174 @@
+{
+  "rumahs": [
+    {
+      "id": "R1",
+      "title": "Krong Bade - Aceh Darussalam",
+      "sprite": "1"
+    },
+    {
+      "id": "R2",
+      "title": "Balai Batak Toba - Sumatera Utara",
+      "sprite": "2"
+    },
+    {
+      "id": "R3",
+      "title": "Gadang - Sumatera Barat",
+      "sprite": "3"
+    },
+    {
+      "id": "R4",
+      "title": "Salaso Jatuh Kembar - Riau",
+      "sprite": "4"
+    },
+    {
+      "id": "R5",
+      "title": "Melayu Limas Potong - Kepulauan Riau",
+      "sprite": "5"
+    },
+    {
+      "id": "R6",
+      "title": "Kajang Lako - Jambi",
+      "sprite": "6"
+    },
+    {
+      "id": "R7",
+      "title": "Bubungan Lima - Bengkulu",
+      "sprite": "7"
+    },
+    {
+      "id": "R8",
+      "title": "Limas - Sumatera Selatan",
+      "sprite": "8"
+    },
+    {
+      "id": "R9",
+      "title": "Rakit - Bangka Belitung",
+      "sprite": "9"
+    },
+    {
+      "id": "R10",
+      "title": "Nuwou Sesat - Lampung",
+      "sprite": "10"
+    },
+    {
+      "id": "R11",
+      "title": "Kasepuhan - Jawa Barat",
+      "sprite": "11"
+    },
+    {
+      "id": "R12",
+      "title": "Adat Baduy - Banten",
+      "sprite": "12"
+    },
+    {
+      "id": "R13",
+      "title": "Kebaya - DKI Jakarta",
+      "sprite": "13"
+    },
+    {
+      "id": "R14",
+      "title": "Joglo - Jawa Tengah",
+      "sprite": "14"
+    },
+    {
+      "id": "R15",
+      "title": "Joglo - DI Yogyakarta",
+      "sprite": "15"
+    },
+    {
+      "id": "R16",
+      "title": "Joglo - Jawa Timur",
+      "sprite": "16"
+    },
+    {
+      "id": "R17",
+      "title": "Panjang - Kalimantan Barat",
+      "sprite": "17"
+    },
+    {
+      "id": "R18",
+      "title": "Betang - Kalimantan Tengah",
+      "sprite": "18"
+    },
+    {
+      "id": "R19",
+      "title": "Baloy - Kalimantan Utara",
+      "sprite": "19"
+    },
+    {
+      "id": "R20",
+      "title": "Lamin - Kalimantan Timur",
+      "sprite": "20"
+    },
+    {
+      "id": "R21",
+      "title": "Banjar - Kalimantan Selatan",
+      "sprite": "21"
+    },
+    {
+      "id": "R22",
+      "title": "Candi Bentar - Bali",
+      "sprite": "22"
+    },
+    {
+      "id": "R23",
+      "title": "Pewaris Walewangko - Sulawesi Utara",
+      "sprite": "23"
+    },
+    {
+      "id": "R24",
+      "title": "Doloupa - Gorontalo",
+      "sprite": "24"
+    },
+    {
+      "id": "R25",
+      "title": "Souraja - Sulawesi Tengah",
+      "sprite": "25"
+    },
+    {
+      "id": "R26",
+      "title": "Mandar - Sulawesi Barat",
+      "sprite": "26"
+    },
+    {
+      "id": "R27",
+      "title": "Tongkongan - Sulawesi Selatan",
+      "sprite": "27"
+    },
+    {
+      "id": "R28",
+      "title": "Buton - Sulawesi Tenggara",
+      "sprite": "28"
+    },
+    {
+      "id": "R29",
+      "title": "Dalam Loka Samawa - Nusa Tenggara Barat",
+      "sprite": "29"
+    },
+    {
+      "id": "R30",
+      "title": "Soo Ata Mosa Lakitang - Nusa Tenggara Timur",
+      "sprite": "30"
+    },
+    {
+      "id": "R31",
+      "title": "Baileo - Maluku",
+      "sprite": "31"
+    },
+    {
+      "id": "R32",
+      "title": "Sasadu - Maluku Utara",
+      "sprite": "32"
+    },
+    {
+      "id": "R33",
+      "title": "Kaki Seribu - Papua Barat",
+      "sprite": "33"
+    },
+    {
+      "id": "R34",
+      "title": "Honaj - Papua",
+      "sprite": "34"
+    }
+  ]
+}
